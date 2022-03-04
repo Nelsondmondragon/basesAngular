@@ -18,6 +18,8 @@ export class PersonajesComponent implements OnInit {
 
   }
 
+ 
+
   ngOnInit(): void {
   }
 
